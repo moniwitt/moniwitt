@@ -1,7 +1,8 @@
 ### Hi there, I am Monica Witt 👋
 
  
- 🌱 I´ve a degree in Computer Science and I want to work with frontend/backend 
+ 🌱 I´ve a degree in Computer Science and I work with frontend at the monent. 
+ I wish to work with backend very soon. 
  
  👯 I’m currently learning HTML, CSS and JavScript
 
