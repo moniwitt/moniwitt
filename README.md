@@ -12,7 +12,7 @@
 
  ⚡ Hobby: I do love water sports
  
- <div align="center">
+ <div align="center" style="display: inline-block">
   <a href="https://github.com/moniwitt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moniwitt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moniwitt&layout=compact&langs_count=7&theme=dark"/>
