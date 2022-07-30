@@ -23,7 +23,7 @@
   <img align="center" alt="Moni-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Moni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Moni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img width="100em" src="https://user-images.githubusercontent.com/110134009/181996542-edbdd89f-d6ae-4c0b-9e54-8a69f72ae4cb.png")
+  <img align="center" width="100em" src="https://user-images.githubusercontent.com/110134009/182003705-6d08bd9a-e5cc-47c5-bac8-ac1391ed3135.png">
  </div>
   
   ##
