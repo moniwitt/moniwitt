@@ -1,16 +1,15 @@
 ### Hi there, I am Monica Witt 👋
 
  
- 🌱 I´ve a degree in Computer Science and I work with frontend at the monent. 
- I wish to work with backend very soon. 
+ 🌱 I´ve a degree in Computer Science and Maths. Although I spent the last couple of years working in the Education Area, teaching IT and Maths in English. Right now     I spend all may day studying in order to update myself to be able to work in the technology environment again very soon. I already concluded HTML, CSS and             Advanced JavaScript.
+  
+ 👯 I’m currently learning React and SQL. Hope to start soon Node, Vue and PHP.
  
- 👯 I’m currently learning HTML, CSS and JavScript
-
  📫 How to reach me: moniwitt@gmail.com
 
  😄 Pronouns: she/her
 
- ⚡ Hobby: I do love water sports
+ ⚡ Hobby: I do love water sports and reading.
  
  <div align="center">
   <a href="https://github.com/moniwitt">
