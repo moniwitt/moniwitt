@@ -1,7 +1,7 @@
 ### Hi there, I am Monica Witt 👋
 
  
- 🌱 I´ve a degree in Computer Science and Maths. Although I spent the last couple of years working in the Education Area, teaching IT and Maths in English. Right now     Im studying all day long in order to update myself to be able to work in the technology environment again very soon. I already concluded HTML, CSS and             Advanced JavaScript.
+ 🌱 I´ve a degree in Computer Science and Maths. Although I spent the last couple of years working in the Education Area, teaching IT and Maths in English. Right now     Im studying all day long in order to update myself to be able to work in the technology environment again very soon. I already concluded HTML, CSS and             Advanced JavaScript. I am studying react at the moment!
   
  👯 I’m currently learning React and SQL. Hope to start soon Node, Vue and PHP.
  
